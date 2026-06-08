@@ -1,0 +1,10 @@
+pwd 
+cd 
+ls 
+ls -a
+cat
+mkdir
+rm -rf
+touch
+
+
