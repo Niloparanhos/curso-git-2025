@@ -1,10 +1,10 @@
-pwd 
-cd 
-ls 
-ls -a
-cat
-mkdir
-rm -rf
-touch
+pwd -> mostra exatamente em qual diretorio você está 
+cd -> acessa um diretório
+ls -> lista os arquivos do diretório
+ls -a -> lista os arquivos exibindo também arquivos ocultos
+cat -> mostra o conteúdo do arquivo
+mkdir -> cria um diretório
+rm -rf -> apaga sem solicitar permissão e apaga subpastas
+touch -> cria ou atualiza um arquivo. 
 
 
