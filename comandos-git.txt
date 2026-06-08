@@ -1,3 +1,4 @@
 git init -> torna a pasta um repositório git
 git status -> mostra a situação dos arquivos
 git add -> adiciona arquivo para ser commitado
+git log -> mostra o histórico de commit

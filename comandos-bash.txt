@@ -4,7 +4,7 @@ ls -> lista os arquivos do diretório
 ls -a -> lista os arquivos exibindo também arquivos ocultos
 cat -> mostra o conteúdo do arquivo
 mkdir -> cria um diretório
-rm -rf -> apaga sem solicitar permissão e apaga subpastas
+rm -rf -> remove de forma recurssiva e forçada o diretório
 touch -> cria ou atualiza um arquivo. 
 
 
