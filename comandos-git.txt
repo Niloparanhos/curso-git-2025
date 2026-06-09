@@ -9,5 +9,8 @@ git reset -> redefine o estado de um arquivo se estiver na fase de stage
 git checkout 'name' -> muda de branch
 git checkout -b 'name' -> cria uma nova branch e muda pra ela
 git branch -> exibe a branch que você está
+git merge 'nome da branch' -> mistura a branch que voce está com a que você pediu
+git branch -D 'nome da branch' -> deleta a branch, não é possível deletar se você estiver nela.
 
+arquivos criados em uma branch diferente, após commit, ficam salvos na branch. 
 
