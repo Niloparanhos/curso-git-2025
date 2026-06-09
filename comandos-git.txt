@@ -13,4 +13,5 @@ git merge 'nome da branch' -> mistura a branch que voce está com a que você pe
 git branch -D 'nome da branch' -> deleta a branch, não é possível deletar se você estiver nela.
 
 arquivos criados em uma branch diferente, após commit, ficam salvos na branch. 
+importanto sempre criar um branch a partir da main, realizar alterações na branch e só após isso dar um merge.
 
