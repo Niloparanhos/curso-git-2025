@@ -2,3 +2,12 @@ git init -> torna a pasta um repositório git
 git status -> mostra a situação dos arquivos
 git add -> adiciona arquivo para ser commitado
 git log -> mostra o histórico de commit
+
+git diff -> mostra o que foi modificado no arquivo desde o ultimo commit
+git reset -> redefine o estado de um arquivo se estiver na fase de stage
+
+git checkout 'name' -> muda de branch
+git checkout -b 'name' -> cria uma nova branch e muda pra ela
+git branch -> exibe a branch que você está
+
+
